@@ -1,0 +1,6 @@
+[
+{"name":"a","size":3938,"imports":["a, b, c, d"]},
+{"name":"b","size":1245,"imports":["b, c, d"]},
+{"name":"c","size":352,"imports":["a, c, d"]},
+{"name":"c","size":352,"imports":["c, d"]}
+]
